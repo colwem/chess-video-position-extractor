@@ -1,6 +1,5 @@
 Chess-video-position-extractor
 ---
-## Command Line Interface (CLI)
 
 ### Setting up the virtual environment
 
