@@ -23,7 +23,7 @@ ipython==6.5.0
 ipython-genutils==0.2.0
 jedi==0.12.1
 line-profiler==2.1.2
-lxml==4.2.4
+lxml==4.6.2
 Markdown==2.6.11
 mccabe==0.6.1
 more-itertools==4.3.0
