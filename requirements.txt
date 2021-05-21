@@ -52,7 +52,7 @@ simplegeneric==0.8.1
 six==1.11.0
 snakeviz==1.0.0
 snowballstemmer==1.2.1
-tensorflow==1.5.0
+tensorflow==2.5.0
 -e git+https://github.com/colwem/tensorflow_chessbot.git@6bf36072b770f4831cd0e7ad81ca800da0757ed8#egg=tensorflow_chessbot
 tensorflow-tensorboard==1.5.1
 tinycss2==0.6.1
